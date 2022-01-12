@@ -1,4 +1,4 @@
-package com.camera;
+package com.aeuclid.camera;
 
 import com.facebook.react.ReactActivity;
 
